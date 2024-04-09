@@ -1,0 +1,1 @@
+[print(end='.'+c)for c in input().lower()if~-(c in'aeiouy')]
