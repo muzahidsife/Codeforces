@@ -1,9 +1,1 @@
-a = int(input())
-b = input()[1:].split()
-c = input()[1:].split()
-
-
-if len(set(b+c))==a:
-      print("I become the guy.")
-else:
-      print("Oh, my keyboard!")
+a=input;print("IO hb,e cmoym ek etyhbeo agrudy!."[int(a())>len({*a().split()[1:],*a().split()[1:]})::2])
