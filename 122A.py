@@ -14,6 +14,4 @@ if m > 0:
 else:
     print("NO")
 
-
-
-
+    
